@@ -1,6 +1,9 @@
 [submodule "detection/camera/t4ac_yolov5_ros"]
 	path = detection/camera/t4ac_yolov5_ros
 	url = https://github.com/RobeSafe-UAH/t4ac_yolov5_ros
+[submodule "detection/camera/t4ac_3d_estimation_ros"]
+	path = detection/camera/t4ac_3d_estimation_ros
+	url = https://github.com/RobeSafe-UAH/t4ac_3d_estimation_ros
 [submodule "detection/lidar/t4ac_openpcdet_ros"]
 	path = detection/lidar/t4ac_openpcdet_ros
 	url = https://github.com/RobeSafe-UAH/t4ac_openpcdet_ros
@@ -10,3 +13,4 @@
 [submodule "tracking_and_prediction/classic/t4ac_smartmot_ros"]
 	path = tracking_and_prediction/classic/t4ac_smartmot_ros
 	url = https://github.com/RobeSafe-UAH/t4ac_smartmot_ros
+
